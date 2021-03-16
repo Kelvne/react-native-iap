@@ -55,6 +55,6 @@ react-native-iap-*.tgz
 # Built files
 tsconfig.tsbuildinfo
 
-*.js.flow
-*.d.ts
-*.js
+# *.js.flow
+# *.d.ts
+# *.js
